@@ -1,5 +1,8 @@
-# 🔬 CytoScope — Computer Vision Meets LLMs for End-to-End Tissue Analysis and Explainable AI
 
+<h1 align="center">🔬 CytoScope </h1>
+<h2 align="center">Computer Vision Meets LLMs for End-to-End Tissue Analysis and Explainable AI </h2>
+
+## Overview : 
 CytoScope is a **hybrid AI system** that integrates **computer vision**, structured reasoning, and **local LLM-based** interpretation into a unified pipeline for histopathology analysis.
 
 At its core, the system performs nuclei segmentation using YOLOv8, but it does not stop at detection. Instead, segmentation outputs are transformed into quantitative features such as nuclei count, spatial density, and normalized nucleus size, enabling a shift from pixel-level predictions to structured data representation.
