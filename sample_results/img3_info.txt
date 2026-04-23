@@ -1,0 +1,14 @@
+Image: img
+
+--- Quantitative Features ---
+Nuclei Count: 66
+Density: 0.001007080078125
+Average Normalized Area: 0.005781934476108817
+
+--- Derived Labels ---
+Density Category: High Density
+Nucleus Size Category: Small Nuclei
+Tissue Profile: Crowded & Small Cells
+
+--- LLM Interpretation ---
+The tissue exhibits high cellularity, characterized by a crowded arrangement of small cells. This morphology is further defined by the presence of small, inconspicuous nuclei.
