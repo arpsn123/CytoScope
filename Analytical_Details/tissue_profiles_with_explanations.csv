@@ -1,0 +1,1187 @@
+image_name,density_label,size_label,tissue_profile,llm_explanation
+1-100.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,"The tissue exhibits a moderate structure characterized by medium overall density, suggesting a balanced composition of cellular and extracellular elements. This organization is supported by the presence of uniformly sized medium nuclei."
+1-1000.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,"The tissue is characterized by a low density and a uniform distribution of sparsely packed cellular elements, indicated by the presence of small nuclei. This suggests a relatively open, non-congested structural arrangement."
+1-1009.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,"The tissue exhibits a moderate architectural structure characterized by medium density and an average size of the nuclei. These features suggest a well-preserved, typical tissue arrangement."
+1-1012.png,Low Density,Medium Nuclei,Moderate Tissue Structure,"The tissue maintains a moderate overall structural organization, characterized by low density and uniformly sized, medium nuclei."
+1-1020.png,High Density,Small Nuclei,Crowded & Small Cells,"The tissue exhibits high cellularity, characterized by a crowded arrangement of small cells. This morphology is further defined by the presence of small, inconspicuous nuclei."
+1-1023.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1038.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1040.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1045.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-105.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1055.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1066.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1069.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1072.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1082.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1088.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1090.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1100.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1105.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1124.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-114.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1140.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1141.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1147.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1152.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1171.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1178.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1180.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1181.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1187.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1193.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1196.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1198.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1200.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1209.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1210.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1217.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1226.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1229.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1231.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1233.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1263.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-128.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1283.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1290.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1291.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1294.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-130.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1305.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1317.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1322.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1324.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1332.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1335.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1338.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1344.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1367.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1368.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1370.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1372.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1376.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1381.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1393.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1397.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-14.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-141.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1416.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1419.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1424.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1429.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-143.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1431.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1444.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1447.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1457.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1466.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-147.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1471.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-148.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1486.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1495.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1499.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1502.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1503.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1504.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1505.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1507.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1509.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-151.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1513.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-152.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1520.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1523.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1532.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1534.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1538.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1543.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1552.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1553.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1558.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1569.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1579.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1586.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1589.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1592.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1600.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1601.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1616.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1622.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1625.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1629.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1636.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1639.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1668.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1679.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1681.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1684.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1686.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1687.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1689.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1693.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1710.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1712.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-172.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1723.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1735.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1739.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1742.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1749.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1751.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1753.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1754.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1756.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1761.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1776.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1782.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1784.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1787.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1795.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1798.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1803.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1806.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1819.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-182.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1822.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1839.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1841.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1842.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1848.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1849.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1850.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1871.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-188.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1882.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1888.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1890.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1893.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1916.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1918.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1925.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1929.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1930.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1936.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1938.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1939.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1944.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1962.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1963.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1973.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1975.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-1981.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-1989.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-1999.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2017.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2026.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2030.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2050.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2084.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2085.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-209.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2097.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2098.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2109.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2115.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2120.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2123.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2124.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2125.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2137.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2139.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2143.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2158.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2160.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2163.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2170.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2171.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2174.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2177.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2189.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2196.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2197.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2201.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2204.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2210.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2214.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2223.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2234.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2249.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2259.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2280.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2294.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2296.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2302.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2313.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2314.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-232.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2337.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2338.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2350.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2357.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2362.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2368.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2398.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-24.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-240.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2400.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2406.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-241.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2411.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2415.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2417.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2421.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2429.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2430.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2450.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-246.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2463.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2464.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2466.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2468.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2469.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2480.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2499.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2503.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2522.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2542.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2546.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2547.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2550.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2553.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2558.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-256.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2561.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2565.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-257.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2573.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2574.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2575.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2578.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2585.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2593.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2602.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2604.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-261.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2610.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2614.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2615.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2617.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2621.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2622.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2623.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2631.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2638.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2641.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-2643.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-2650.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-2654.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-285.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-286.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-288.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-296.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-297.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-304.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-307.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-312.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-322.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-324.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-336.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-34.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-341.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-350.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-353.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-362.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-367.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-368.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-371.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-373.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-38.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-384.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-388.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-399.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-4.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-401.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-405.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-406.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-409.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-412.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-413.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-418.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-422.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-426.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-430.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-435.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-437.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-438.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-440.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-445.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-448.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-45.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-46.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-461.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-468.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-47.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-486.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-498.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-512.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-519.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-526.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-530.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-533.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-539.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-545.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-55.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-554.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-558.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-560.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-562.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-563.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-565.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-566.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-575.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-577.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-582.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-587.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-599.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-6.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-605.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-610.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-616.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-62.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-630.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-632.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-636.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-645.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-647.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-648.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-652.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-657.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-658.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-659.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-66.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-661.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-662.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-664.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-666.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-67.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-686.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-695.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-70.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-704.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-709.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-710.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-714.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-723.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-741.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-762.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-77.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-772.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-778.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-789.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-792.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-796.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-808.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-81.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-815.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-82.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-822.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-827.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-831.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-837.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+1-839.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-849.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-859.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-866.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-869.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-876.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-881.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-889.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-897.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-901.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-906.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-908.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-920.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-922.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-924.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+1-928.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-934.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-94.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-940.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-948.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-966.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-984.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-985.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+1-999.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-0.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1002.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1011.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1016.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-102.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1027.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1040.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1042.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1045.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1046.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1048.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1056.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1066.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1078.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1083.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1085.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1087.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1089.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1095.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-11.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1108.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1114.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1115.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1116.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1119.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1122.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1134.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1141.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1142.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1155.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1167.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1180.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1185.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1187.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1196.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-120.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1200.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1214.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1219.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1222.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1226.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1245.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1253.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1268.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1273.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1276.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1278.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1283.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1292.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1296.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1297.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1326.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1328.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1329.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1331.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1336.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1339.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1360.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1364.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1374.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1398.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1400.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1401.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1404.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1408.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1409.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1411.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1420.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1427.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1430.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1438.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1444.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1447.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1474.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1479.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1482.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1486.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1511.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1524.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1525.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1531.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1545.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1549.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1551.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1553.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1554.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1561.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1564.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1565.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1574.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1576.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1584.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1589.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1600.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1603.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1608.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1612.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1618.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1638.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1642.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1647.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1663.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1666.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1673.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1697.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1699.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-170.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1704.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1707.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1715.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1718.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-172.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1723.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1726.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1727.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-173.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1741.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1744.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1753.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1760.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1766.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1768.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1776.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1777.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1786.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1788.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1803.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1810.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1812.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1818.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1819.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1820.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1822.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1824.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1837.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1838.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1850.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1855.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1865.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1868.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1870.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1875.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1895.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1911.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1915.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1919.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1925.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1930.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1936.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1950.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1952.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1953.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-196.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1962.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1965.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-1973.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1979.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1987.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-1990.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1995.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-1998.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-200.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2010.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2014.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2017.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2031.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2032.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2034.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2035.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2041.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-205.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2052.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-2058.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2068.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2074.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2077.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2092.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2094.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2096.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2099.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2106.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-211.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2110.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2117.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2121.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2123.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2129.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2136.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2156.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2171.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2177.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-218.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2186.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2188.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2190.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2195.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2201.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2206.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2209.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2220.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2225.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2226.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2232.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2245.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2251.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2288.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2298.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2314.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-2329.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2332.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2333.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2337.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2346.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-235.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2351.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2363.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2364.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2376.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2378.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2398.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2407.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2416.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2422.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2426.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2440.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-2450.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-2454.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2461.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2475.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2498.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-2507.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2508.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-2517.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-2521.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-2522.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-253.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-264.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-265.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-275.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-288.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-290.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-291.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-296.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-300.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-304.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-305.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-306.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-310.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-312.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-313.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-319.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-322.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-334.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-338.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-342.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-355.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-358.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-36.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-363.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-377.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-390.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-395.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-404.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-407.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-410.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-416.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-417.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-418.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-420.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-424.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-426.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-430.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-434.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-435.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-443.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-447.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-458.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-465.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-472.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-475.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-476.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-487.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-489.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-496.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-499.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-504.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-51.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-519.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-52.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-533.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-537.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-539.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-547.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-57.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-581.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-582.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-586.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-589.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-591.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-594.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-603.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-605.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-607.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-613.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-618.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-625.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-631.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-64.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-640.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-643.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-644.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-647.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-675.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-676.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-682.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-684.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-691.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-700.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-702.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-705.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-720.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-724.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-727.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-730.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-732.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-734.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-736.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-737.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-753.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-764.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-776.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-785.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-789.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-797.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-804.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-807.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-81.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+2-814.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-827.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-829.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-837.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-844.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-847.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-854.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-876.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-879.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-898.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-902.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-903.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-913.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-917.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-918.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-925.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-931.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-948.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-959.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-962.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+2-964.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-972.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-979.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-981.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+2-990.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1002.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1011.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1012.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1017.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1021.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1022.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1033.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1037.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1039.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1047.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1050.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1054.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1061.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1066.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1075.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1076.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1095.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1099.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-110.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-111.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1113.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1127.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1129.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1131.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1141.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1144.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1154.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1158.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1163.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1169.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1173.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1183.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1194.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1195.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-120.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1201.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1211.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1213.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1216.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1224.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1227.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1230.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1231.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1233.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1239.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1253.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1258.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1260.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1262.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1268.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1269.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1272.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1274.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1275.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1278.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1280.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1289.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1297.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1300.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1314.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1317.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1325.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-133.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1343.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1346.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1351.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1353.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1362.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1365.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1376.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1381.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1384.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1398.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-140.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1404.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1406.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-141.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1422.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1424.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1428.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1430.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1437.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1452.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1464.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1467.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1470.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1472.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1477.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1479.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1484.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1494.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1506.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1507.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1510.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1518.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1523.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1530.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1539.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1544.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1551.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1555.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1557.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1562.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1585.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1593.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1598.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1608.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1615.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1617.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1627.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-163.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1632.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1633.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-164.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1640.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1642.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1643.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1645.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1650.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1654.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1660.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-167.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1676.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1679.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1705.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1708.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1711.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1712.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1716.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1718.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1722.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1726.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1732.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1747.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1753.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1756.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1761.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1762.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1767.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1770.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1782.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1798.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1801.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1803.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1807.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-181.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1813.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-182.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1829.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1836.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1844.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1848.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1851.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-1852.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-186.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1862.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-187.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1873.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1875.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-188.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1880.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1881.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1887.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1892.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1893.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1898.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1905.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1909.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1926.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1931.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1941.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1944.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1949.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1954.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1956.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-1959.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1966.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1981.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1983.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-1991.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2000.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2001.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2002.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2011.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2013.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2021.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2031.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2035.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2038.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2047.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2057.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-207.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2070.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2075.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2077.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2088.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2096.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2104.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2106.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2111.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2117.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2120.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2124.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2129.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2134.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2141.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2176.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2182.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2189.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-220.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2205.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2206.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2218.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2220.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2233.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2239.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2245.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2250.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2265.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2271.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2275.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2278.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2282.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2283.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2285.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2287.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2290.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2294.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2295.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2303.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2313.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2316.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2345.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2352.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2357.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2360.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2370.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2377.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2386.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2396.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-24.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2424.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2446.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2451.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2460.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2461.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2469.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2470.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2478.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2483.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2484.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2487.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2490.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2492.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2499.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-250.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2523.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2529.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2533.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2541.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2550.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2557.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2558.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2575.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2585.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2588.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2589.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2591.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2594.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2601.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2613.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-262.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2623.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2625.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2629.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2633.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-264.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2642.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2648.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2653.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2666.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2667.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2673.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2675.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2680.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2682.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2683.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2686.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2688.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2689.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-269.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2690.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2691.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2705.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2707.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2708.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2709.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-2710.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-2711.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-2717.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-276.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-28.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-287.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-297.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-303.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-305.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-306.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-310.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-317.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-319.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-334.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-336.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-339.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-344.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-349.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-352.png,High Density,Large Nuclei,Dense Tissue with Large Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-353.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-355.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-360.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-361.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-362.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-366.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-369.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-37.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-382.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-386.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-393.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-399.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-405.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-41.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-410.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-415.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-447.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-449.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-45.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-451.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-462.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-465.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-467.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-468.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-474.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-480.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-487.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-506.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-507.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-52.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-523.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-540.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-542.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-544.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-563.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-567.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-616.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-62.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-620.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-621.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-63.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-641.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-644.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-651.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-652.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-66.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-663.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-678.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-688.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-689.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-694.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-71.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-713.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-734.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-736.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-738.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-742.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-749.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-75.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-750.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-753.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-757.png,Low Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-762.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-769.png,Low Density,Large Nuclei,Sparse Tissue with Enlarged Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-780.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-782.png,Low Density,Small Nuclei,Sparse & Uniform Tissue,LLM skipped this one. Even GPUs deserve boundaries
+3-79.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-790.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-794.png,Medium Density,Small Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-802.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-808.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-818.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-819.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-822.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-827.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-828.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-84.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-847.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-852.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-873.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-879.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-897.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-899.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-934.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-937.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-940.png,High Density,Small Nuclei,Crowded & Small Cells,LLM skipped this one. Even GPUs deserve boundaries
+3-944.png,Medium Density,Large Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-945.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-955.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-957.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-973.png,Medium Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-984.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-991.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
+3-992.png,High Density,Medium Nuclei,Moderate Tissue Structure,LLM skipped this one. Even GPUs deserve boundaries
