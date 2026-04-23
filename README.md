@@ -483,9 +483,6 @@ image_name   nuclei_count   avg_norm_area   density
 
 > Nuclei density and size exhibit a weak inverse relationship, while total tissue coverage is jointly influenced by both nucleus count and individual size. The dataset shows significant variability across samples, indicating heterogeneous structural organization and potential spatial constraints in densely packed regions.
 
-Perfect—this is the **selling stage**.
-We’ll keep it sharp, technical, and clearly position it as a **CV + LLM hybrid system** (not an LLM toy).
-
 ---
 
 ## 05. Tissue Profiling & LLM Interpretation
